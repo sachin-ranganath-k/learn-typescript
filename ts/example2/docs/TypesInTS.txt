@@ -33,3 +33,10 @@ Types in ts
 * enum
 
 
+--- In TS unknown is better than any why?
+Because, TS won't let us perform any of the operation till we are sure about 
+the type of the value we are dealing with.
+
+
+
+
